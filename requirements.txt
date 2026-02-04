@@ -1,0 +1,6 @@
+rapidfuzz
+pypdf
+pytest
+pytesseract
+pdf2image
+Pillow

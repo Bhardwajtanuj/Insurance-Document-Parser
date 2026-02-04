@@ -1,0 +1,14 @@
+[*] Loading document: tests/sample_docs/hdfc_sample.txt...
+[*] Cleaning text...
+[*] Loading patterns for: hdfc...
+[*] Extracting data...
+
+========================================
+Extraction Results (HDFC)
+========================================
+policy_number        : 12345678             (Conf: 0.95, Method: regex)
+premium_amount       : 25,000               (Conf: 0.95, Method: regex)
+sum_assured          : 10,00,000            (Conf: 0.95, Method: regex)
+insurer_name         : Not Found            (Conf: 0.0, Method: none)
+customer_id          : 9999                 (Conf: 0.95, Method: regex)
+========================================
